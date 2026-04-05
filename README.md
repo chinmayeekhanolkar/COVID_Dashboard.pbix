@@ -21,3 +21,7 @@ This project is an interactive dashboard built using Power BI to analyze COVID-1
 
 ## File
 COVID_Dashboard.pbix
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
